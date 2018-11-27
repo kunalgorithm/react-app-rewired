@@ -19,10 +19,3 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
 serviceWorker.unregister();
-
-// Webpack Hot Module Replacement API
-// if (module.hot) {
-//   module.hot.accept("./App", () => {
-//     render();
-//   });
-// }
